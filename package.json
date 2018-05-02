@@ -1,0 +1,17 @@
+{
+  "name": "babel-hoc-hmr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babylon": "^6.18.0",
+    "@babel/traverse": "^7.0.0-beta.46"
+  },
+}
